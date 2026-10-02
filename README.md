@@ -21,7 +21,7 @@ A lightweight Telegram chatbot built with `aiogram` and OpenAI’s ChatGPT API. 
 
 ## Architecture Overview
 
-![Project Architecture](Assets/45454%20(1).png) <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/f39c544a-73c2-4e33-ac18-d351f3e5e5bd" />
+(Assets/45454%20(1).png) <img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/f39c544a-73c2-4e33-ac18-d351f3e5e5bd" />
 
 
 ## Getting Started
